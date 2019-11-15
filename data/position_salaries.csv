@@ -1,0 +1,12 @@
+position,level,salary,age
+business_analyst,1,45000,18
+junior_consultant,2,50000,20
+senior_consultant,3,60000,22
+manager,4,80000,35
+country_manager,5,110000,38
+region_manager,6,150000,40
+partner,7,200000,43
+senior_partner,8,300000,50
+c_level,9,500000,55
+ceo,10,1000000,60
+
