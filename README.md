@@ -17,7 +17,7 @@ $ source myenv/bin/activate
 ### Install dependencies
 
 ```shell
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 
 ### Create a new ipython kernel to use Jupyter Notebook inside your virtual environment
@@ -29,7 +29,7 @@ python3 -m ipykernel install --user --name=myenv
 ### Launch the Notebook
 
 ```shell
-jupyter notebook pca_test.ipynb
+jupyter notebook
 ```
 
 **Note**:  
